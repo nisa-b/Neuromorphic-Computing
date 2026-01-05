@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+librosa
+matplotlib
+soundfile
+PyWavelets
+torch
+snntorch
